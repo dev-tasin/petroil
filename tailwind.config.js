@@ -11,6 +11,9 @@ tailwind.config = {
       },
       spacing: {
         'container': '1144px',
+      },
+      backgroundImage: {
+        'banner': "linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)) , url('./images/banner.jpg')",
       }
     }
   }
